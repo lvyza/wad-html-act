@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(11, 146, 209);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 0;
+}
+
+.sawadee{
+    background: rgb(11, 146, 209);
+    padding: 10px 20px;
+    border: #050505 solid 3px;
+    border-radius: 15px;
+    font-family: arial;
+
+}
